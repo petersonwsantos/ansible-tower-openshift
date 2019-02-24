@@ -1,0 +1,5 @@
+---
+- name: (v0.0.1) Ensure set - Openshift schedule true
+  hosts: all
+  roles:
+    - ansible-openshift-schedule-true
