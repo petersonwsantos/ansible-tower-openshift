@@ -1,0 +1,10 @@
+---
+# - src: git@github.com:petersonwsantos/ansible-journal.git
+#   name: ansible-journal
+#   scm: git
+#   #  version: "v0.0.1"
+- src: git@github.com:petersonwsantos/ansible-openshift-login.git
+  name: ansible-openshift-login
+  scm: git
+
+
